@@ -15,13 +15,13 @@
 To verify that all components are in working condition, upload the following codes one by one to check and test the working of each part.
 1. Upload ```Blink.ino``` code to test the Arduino.
 2. Upload ```DC_Motor.ino``` code to test the working of Two Channel Relay Module and DC Motors
-3. Upload the ```Sensor.ino``` Code to test the working of the Ultrasonic Sensor.
-4. Upload the ```Bluetoooth_inbuilt_led.ino``` code to test the working of HC-05 Bluetooth module
+3. Upload the ```Sensor.ino``` Code to test the working of the HC-SR04 Ultrasonic Sensor.
+4. Upload the ```Bluetoooth_inbuilt_LED.ino``` code to test the working of HC-05 Bluetooth module
 
 # Connections
 Connect the components with the Arduino as shown in the images below. You can use breadboard for common connections.
 
-Interfacing Ultrasonic sensor with Arduino:
+Interfacing HC-SR04 Ultrasonic sensor with Arduino:
 
 ![image](https://github.com/vvpai9/Object-Detection-and-Avoidance-using-Arduino/assets/162291797/6d469aaf-43de-45a4-a4bb-98600294b6fc)
 
